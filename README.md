@@ -1,7 +1,7 @@
 ## Hi I'm Shambhavi 👋
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Let's%20to%20my%20Connect%20🤝&animation=fadeIn&type=waving&color=gradient&height=120" />
+  <img src="https://capsule-render.vercel.app/api?text=Let's%20to%20%20Connect%20🤝&animation=fadeIn&type=waving&color=gradient&height=120" />
 </p>
 
 <h2>🚀 Tech Stack</h2>
