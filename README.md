@@ -3,6 +3,17 @@
 
 
 <h2>🚀 Tech Stack</h2>
+<p align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?
+    text=Welcome%20to%20my%20profile%20✨
+    &animation=fadeIn
+    &type=waving
+    &color=gradient
+    &height=120"
+  />
+</p>
+
 <p align="left">
   <!-- Languages -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
