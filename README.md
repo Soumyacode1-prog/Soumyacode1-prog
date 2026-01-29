@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Code%20•%20Build%20•%20Deploy&animation=fadeIn&type=rounded&color=0:0F2027,100:2C5364&height=120" />
+  <img src="https://capsule-render.vercel.app/api?text=Code%20•%20Build%20•%20Deploy&animation=fadeIn&type=rounded&color=0:FFFF,100:2C5364&height=120" />
 
 
 </p>
