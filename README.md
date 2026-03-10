@@ -2,7 +2,12 @@
 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Code%20•%20Build%20•%20Deploy&animation=fadeIn&type=rounded&color=0:FFFF,100:2C5364&height=120" />
+# Hello I m Shambhavi.
+# My tech stacks include :
+  FRONTEND : HTML,CSS, JS, REACT.JS, NEXT.JS,TAILWIND CSS, MATERIAL UI ,
+  BACKEND : NODE.JS, EXPRESS.JS, MONGODB, MYSQL,
+  CLOUD PLATFORMS: AWS
+  DEVELOPER TOOLS : GIT/GITHUB
 
 
 </p>
