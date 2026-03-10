@@ -2,12 +2,13 @@
 
 
 <p align="center">
-# Hello I'm Shambhavi  and a full stack developer <br/>
+# Hello I'm Shambhavi  and a full stack developer  having expirience working on projects building full stack applications.<br/>
 # My tech stacks include :<br/>
   #FRONTEND : HTML,CSS, JS, REACT.JS, NEXT.JS,TAILWIND CSS, MATERIAL UI ,<br/>
   #BACKEND : NODE.JS, EXPRESS.JS, MONGODB, MYSQL,PYTHON<br/>
   #CLOUD PLATFORMS: AWS, DOCKER <br/>
   #DEVELOPER TOOLS : GIT/GITHUB<br/>
+  
 
 
 </p>
