@@ -2,12 +2,12 @@
 
 
 <p align="center">
-# Hello I m Shambhavi.<br/>
-# My tech stacks include :
-  FRONTEND : HTML,CSS, JS, REACT.JS, NEXT.JS,TAILWIND CSS, MATERIAL UI ,<br/>
-  BACKEND : NODE.JS, EXPRESS.JS, MONGODB, MYSQL,<br/>
-  CLOUD PLATFORMS: AWS<br/>
-  DEVELOPER TOOLS : GIT/GITHUB<br/>
+# Hello I'm Shambhavi  and a full stack developer <br/>
+# My tech stacks include :<br/>
+  #FRONTEND : HTML,CSS, JS, REACT.JS, NEXT.JS,TAILWIND CSS, MATERIAL UI ,<br/>
+  #BACKEND : NODE.JS, EXPRESS.JS, MONGODB, MYSQL,PYTHON<br/>
+  #CLOUD PLATFORMS: AWS<br/>
+  #DEVELOPER TOOLS : GIT/GITHUB<br/>
 
 
 </p>
