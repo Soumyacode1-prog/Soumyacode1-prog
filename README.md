@@ -23,44 +23,56 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45"/>
 </p>
 
-I am a passionate <strong>Full Stack Developer</strong> with experience building scalable web applications and modern user interfaces. 
-I enjoy transforming ideas into real-world digital products by working across both frontend and backend technologies. 
-My experience includes developing responsive applications, designing RESTful APIs, integrating databases, and deploying full-stack solutions. 
-I have worked with both the <strong>MERN stack</strong> and <strong>.NET technologies</strong> to build efficient and secure applications.
+<p align="center">
 
-I have professional experience as a <strong>Frontend Developer at Daakit Technologies</strong>, where I developed responsive interfaces using React.js and integrated REST APIs. 
-I also worked as a <strong>Full Stack .NET Developer at Miracle Hunts Services</strong>, where I built scalable Web APIs using ASP.NET and contributed to backend service development.
+<strong>👋 Hello, I'm Shambhavi Soumya</strong><br/><br/>
 
-Along with professional experience, I have built several full-stack projects including an <strong>AI-powered MERN application</strong>, a <strong>content management and publication portal</strong>, and a <strong>dental clinic website</strong> that supports appointment requests and dynamic content management.
+• Passionate <strong>Full Stack Developer</strong> with experience building scalable and responsive web applications.<br/>
+• Skilled in developing modern user interfaces and robust backend systems for real-world applications.<br/>
+• Experienced in working across the full development lifecycle including frontend development, backend APIs, database design, and deployment.<br/>
+• Proficient in building applications using the <strong>MERN stack</strong> as well as <strong>.NET technologies</strong>.<br/>
+• Strong interest in building efficient, user-friendly, and performance-driven web solutions.<br/><br/>
 
-<br/><br/>
+<strong>💼 Professional Experience</strong><br/><br/>
 
-<strong>💻 Frontend Development</strong><br/>
-I build responsive and interactive user interfaces using <strong>HTML, CSS, JavaScript, React.js, and Next.js</strong>. 
-I also use modern UI frameworks like <strong>Tailwind CSS, Bootstrap, and Material UI</strong> to create clean, accessible, and responsive designs.
+• Worked as a <strong>Frontend Developer at Daakit Technologies</strong>, building responsive UI components using React.js and integrating REST APIs.<br/>
+• Contributed to improving user experience by developing dynamic and interactive web interfaces.<br/>
+• Worked as a <strong>Full Stack .NET Developer at Miracle Hunts Services</strong>, developing scalable Web APIs using ASP.NET.<br/>
+• Assisted in backend service development and API integration for enterprise-level applications.<br/><br/>
 
-<br/><br/>
+<strong>🚀 Projects</strong><br/><br/>
 
-<strong>⚙️ Backend Development</strong><br/>
-I develop scalable backend systems and RESTful APIs using <strong>Node.js, Express.js, Python, and ASP.NET</strong>. 
-My backend experience includes implementing authentication systems, handling server-side logic, and integrating APIs with frontend applications.
+• Developed an <strong>AI-powered MERN application</strong> for intelligent content generation and automation.<br/>
+• Built a <strong>Content Management & Publication Portal</strong> allowing users to manage and publish digital content efficiently.<br/>
+• Created a <strong>Dental Clinic Website</strong> supporting appointment requests and dynamic content management.<br/><br/>
 
-<br/><br/>
+<strong>💻 Frontend Development</strong><br/><br/>
 
-<strong>🗄️ Databases</strong><br/>
-I work with both relational and NoSQL databases including <strong>MongoDB and MySQL</strong> to design efficient schemas, manage application data, and implement secure CRUD operations.
+• Build responsive and interactive interfaces using <strong>HTML, CSS, JavaScript, React.js, and Next.js</strong>.<br/>
+• Use modern styling frameworks including <strong>Tailwind CSS, Bootstrap, and Material UI</strong> to create clean and accessible UI components.<br/><br/>
 
-<br/><br/>
+<strong>⚙️ Backend Development</strong><br/><br/>
 
-<strong>☁️ Cloud & DevOps</strong><br/>
-I use technologies like <strong>AWS and Docker</strong> to containerize applications, manage deployments, and improve scalability and performance of full-stack systems.
+• Develop scalable backend systems and RESTful APIs using <strong>Node.js, Express.js, Python, and ASP.NET</strong>.<br/>
+• Implement authentication systems, server-side logic, and API integrations with frontend applications.<br/><br/>
 
-<br/><br/>
+<strong>🗄️ Databases</strong><br/><br/>
 
-<strong>🛠 Developer Tools</strong><br/>
-I regularly use <strong>Git, GitHub, VS Code, and Postman</strong> for version control, collaborative development, debugging APIs, and maintaining efficient development workflows.
+• Work with both relational and NoSQL databases including <strong>MongoDB and MySQL</strong>.<br/>
+• Design database schemas and implement secure CRUD operations for application data management.<br/><br/>
+
+<strong>☁️ Cloud & DevOps</strong><br/><br/>
+
+• Experience using <strong>AWS and Docker</strong> for application deployment and containerization.<br/>
+• Focus on improving scalability, performance, and deployment workflows.<br/><br/>
+
+<strong>🛠 Developer Tools</strong><br/><br/>
+
+• Regularly use <strong>Git, GitHub, VS Code, and Postman</strong> for version control, API testing, and efficient development workflows.<br/>
 
 </p>
+
+
 
 
 
