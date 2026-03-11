@@ -1,15 +1,38 @@
-## Hi I'm Shambhavi 👋
+
 
 
 <p align="center">
-# Hello I'm Shambhavi  and a full stack developer  having expirience working on projects building full stack applications.<br/>
-# My tech stacks include :<br/>
-  #FRONTEND : HTML,CSS, JS, REACT.JS, NEXT.JS,TAILWIND CSS, MATERIAL UI ,<br/>
-  #BACKEND : NODE.JS, EXPRESS.JS, MONGODB, MYSQL,PYTHON<br/>
-  #CLOUD PLATFORMS: AWS, DOCKER <br/>
-  #DEVELOPER TOOLS : GIT/GITHUB<br/>
-  
 
+<strong>👋 Hello, I'm Shambhavi</strong><br/>
+Full Stack Developer with experience building scalable and responsive web applications.<br/><br/>
+
+<strong>💻 Tech Stack</strong><br/><br/>
+
+<strong>Frontend</strong><br/>
+• HTML<br/>
+• CSS<br/>
+• JavaScript<br/>
+• React.js<br/>
+• Next.js<br/>
+• Tailwind CSS<br/>
+• Material UI<br/><br/>
+
+<strong>Backend</strong><br/>
+• Node.js<br/>
+• Express.js<br/>
+• Python<br/><br/>
+
+<strong>Databases</strong><br/>
+• MongoDB<br/>
+• MySQL<br/><br/>
+
+<strong>Cloud & DevOps</strong><br/>
+• AWS<br/>
+• Docker<br/><br/>
+
+<strong>Developer Tools</strong><br/>
+• Git<br/>
+• GitHub
 
 </p>
 
