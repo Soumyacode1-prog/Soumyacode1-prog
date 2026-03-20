@@ -1,6 +1,7 @@
 <p align="center">
 
 <strong>👋 Hello, I'm Shambhavi Soumya</strong><br/>
+
 <h2>🚀 Tech Stack</h2>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
@@ -71,11 +72,6 @@
 • Regularly use <strong>Git, GitHub, VS Code, and Postman</strong> for version control, API testing, and efficient development workflows.<br/>
 
 </p>
-
-
-
-
-
 
 
 
