@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Shambhavi Soumya</h1>
-<h3 align="center">💻 Full Stack Developer | MERN & AI | Building Scalable Web Apps</h3>
+<h3 align="center">💻 Full Stack Developer | MERN & .NET | Problem Solver 🚀</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Soumyacode1-prog&label=Profile%20views&color=0e75b6&style=flat" />
   <img src="https://img.shields.io/github/followers/Soumyacode1-prog?label=Followers&style=social" />
+  <img src="https://img.shields.io/badge/LeetCode-200%2B%20Problems-orange"/>
 </p>
 
 ---
@@ -12,11 +13,14 @@
 
 ## 🚀 About Me
 
-* 💼 Full Stack Developer with experience in **MERN & .NET**
-* 🌱 Currently focusing on **DSA & System Design**
-* ⚡ Passionate about building **scalable & real-world applications**
-* 🧠 Strong in both **frontend + backend development**
-* 📫 Reach me at: **[shambhavisoumya10@gmail.com](mailto:shambhavisoumya10@gmail.com)**
+* 🎓 B.Tech CSE @ Gautam Buddha University (CGPA: 8.2)
+* 💼 Worked as **Frontend Developer @ Daakit Technologies**
+* ⚙️ Worked as **Full Stack .NET Developer @ Miracle Hunts**
+* 🧠 Solved **200+ DSA problems (LeetCode)**
+* 🌱 Currently learning **System Design & Advanced Backend**
+* ⚡ Passionate about building **real-world scalable apps**
+
+📫 **Reach me:** [shambhavisoumya10@gmail.com](mailto:shambhavisoumya10@gmail.com)
 
 ---
 
@@ -54,7 +58,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
 </p>
 
-### ☁️ Tools & DevOps
+### ☁️ DevOps & Tools
 
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
@@ -65,25 +69,16 @@
 
 ---
 
-## 💼 Experience
+## 🚀 Featured Projects
 
-* 💻 **Frontend Developer @ Daakit Technologies**
+* 🤖 **AI-Powered MERN Application**
+  → Smart validation, content handling & authentication (JWT)
 
-  * Built responsive UI using React.js
-  * Integrated REST APIs
+* 🎤 **Voice-Based Billing System**
+  → Speech recognition using Vosk + PDF generation
 
-* ⚙️ **Full Stack .NET Developer @ Miracle Hunts Services**
-
-  * Developed scalable APIs using ASP.NET
-  * Worked on backend services
-
----
-
-## 🚀 Projects
-
-* 🤖 **AI MERN Application** – Content generation & automation
-* 📰 **Content Management Portal** – Manage & publish content
-* 🦷 **Dental Clinic Website** – Appointment & dynamic system
+* 🦷 **Dental Clinic Website**
+  → Appointment system + WhatsApp integration
 
 ---
 
@@ -96,7 +91,7 @@
 
 ---
 
-## 🔥 Streak Stats
+## 🔥 GitHub Streak
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Soumyacode1-prog&theme=radical"/>
@@ -104,13 +99,34 @@
 
 ---
 
-## 🌐 Connect With Me
+## 📈 Contribution Graph
 
-<p>
-<a href="https://www.linkedin.com/in/shambhavi-soumya/"><img src="https://img.icons8.com/color/48/linkedin.png" width="40"/></a>
-<a href="https://github.com/Soumyacode1-prog"><img src="https://img.icons8.com/material-outlined/48/github.png" width="40"/></a>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Soumyacode1-prog&theme=github-compact&area=true"/>
 </p>
 
 ---
 
-<h3 align="center">✨ "Building scalable apps with clean code & real impact."</h3>
+## 🐍 Contribution Snake (Game Animation)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Soumyacode1-prog/Soumyacode1-prog/output/github-snake-dark.svg" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p>
+<a href="https://www.linkedin.com/in/shambhavi-soumya/">
+<img src="https://img.icons8.com/color/48/linkedin.png" width="40"/>
+</a>
+
+<a href="https://github.com/Soumyacode1-prog">
+<img src="https://img.icons8.com/material-outlined/48/github.png" width="40"/>
+</a>
+</p>
+
+---
+
+<h3 align="center">✨ "Turning ideas into scalable and impactful digital solutions."</h3>
