@@ -13,7 +13,7 @@
 
 ## 🚀 About Me
 
-* 🎓 B.Tech CSE @ Gautam Buddha University (CGPA: 8.2)
+* 🎓 B.Tech CSE @ Gautam Buddha University (CGPA: 8.56)
 * 💼 Worked as **Frontend Developer @ Daakit Technologies**
 * ⚙️ Worked as **Full Stack .NET Developer @ Miracle Hunts**
 * 🧠 Solved **200+ DSA problems (LeetCode)**
