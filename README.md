@@ -91,14 +91,6 @@
 
 ---
 
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Soumyacode1-prog&theme=radical"/>
-</p>
-
----
-
 ## 📈 Contribution Graph
 
 <p align="center">
